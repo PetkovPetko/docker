@@ -1,6 +1,6 @@
 ##Image is available on Docker Hub:
 ```bash
-docker pull mstamenov/lib:sql2019-tmpl
+docker pull petkovpetko/lib:sql2022-tmpl
 ```
 
 ## Build docker image with
