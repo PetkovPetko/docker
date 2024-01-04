@@ -1,6 +1,6 @@
 ##Image is available on Docker Hub:
 ```bash
-docker pull petkovpetko/lib:sql2022-tmpl
+docker pull petkovpetko/lib:sql2022-ntmp
 ```
 
 ## Build docker image with
