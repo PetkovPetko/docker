@@ -4,7 +4,7 @@ add_cron_env()
 {
   if ! cat /etc/environment |  grep -q $1; then
     env_label=$1
-    echo $1=${!env_label}>>/etc/environment
+    echo $1=${!env_label} >> /etc/environment
     echo $1 is added
   fi
 }
